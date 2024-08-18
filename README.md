@@ -8,7 +8,7 @@
 
     **2.** Create a -[P & L Fiscal Year](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/P%20%26%20L%20-%20Fiscal%20Year.pdf)
 
-    **3.** Create a -[P & L Quaters]( )
+    **3.** Create a -[P & L Quaters](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/P%20%26%20L%20-%20Quaters.pdf)
 
 - **Purpose of P & L analytics:** Compare P&L statements over time to assess the studio's financial progress and identify areas for improvement.
 
