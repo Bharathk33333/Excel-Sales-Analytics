@@ -2,7 +2,7 @@
 ## All Studio - P & L Report :
 
 
-- **Project objective:** 
+- **Project objective:** To Understand the All Studios P & L 
 
     **1.** Create a _[All Studio P & L report](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/All%20Studio%20P%20%26%20L.pdf)_
 
@@ -14,7 +14,7 @@
 
 ## AtliQ - Hardware P & L Report :
 
-- **Project objective:** 
+- **Project objective:** To derive the P & L By Fiscal Year & Quaters.
 
      **1.** Create a -[P & L Fiscal Year](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/P%20%26%20L%20-%20Fiscal%20Year.pdf)
 
