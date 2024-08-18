@@ -16,9 +16,9 @@
 
 - **Project objective:** 
 
--  **1.** Create a -[P & L Fiscal Year](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/P%20%26%20L%20-%20Fiscal%20Year.pdf)
+     **1.** Create a -[P & L Fiscal Year](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/P%20%26%20L%20-%20Fiscal%20Year.pdf)
 
--  **2.** Create a -[P & L Quaters](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/P%20%26%20L%20-%20Quaters.pdf)
+     **2.** Create a -[P & L Quaters](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/P%20%26%20L%20-%20Quaters.pdf)
 
 - **Purpose of P & L analytics:** Compare P&L statements over time to assess the financial progress and identify areas for improvement.
 
