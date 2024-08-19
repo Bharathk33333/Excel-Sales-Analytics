@@ -31,7 +31,7 @@
 
     **3.** Create a _[Sales Report By Division](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/Sales%20Growth%20by%20division.pdf)_ 
 
-    **4.** Create a _[Sales Report By Top 5 & Bottom 5] (https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/Top%205%20%26%20Bottom%205%20Products.pdf)_ 
+    **4.** Create a _[Sales Report By Top 5 & Bottom 5](https://github.com/Bharathk33333/Excel-Sales-Analytics/blob/main/Top%205%20%26%20Bottom%205%20Products.pdf)_ 
 	
 
 
